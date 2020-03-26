@@ -3,4 +3,6 @@
 
 - 코로나 웹사이트나 어플을 만드시는 개발자 분들에게 편의를 제공하기 위해 제작하였습니다.
 
+- 자유롭게 사용하세요.
+
 크롤링 주소:  http://www.seoul.go.kr/coronaV/coronaStatus.do?menu_code=01 
